@@ -1,0 +1,211 @@
+<ROOT>
+	<Certificates>null</Certificates>
+	<User>renins</User>
+	<Brand>HYUNDAI</Brand>
+	<Displacement>2656</Displacement>
+	<DateOfMileage>-</DateOfMileage>
+	<Model>HYUNDAI SANTA FE</Model>
+	<Count>11</Count>
+	<SteeringWheelPlacement>-</SteeringWheelPlacement>
+	<LeasingInformations/>
+	<VehicleType>PC</VehicleType>
+	<Mileage>-</Mileage>
+	<Year>2007</Year>
+	<Accidents/>
+	<Taxi>false</Taxi>
+	<EngineNumber>7А999471</EngineNumber>
+	<Leasing>false</Leasing>
+	<SpecialArea>false</SpecialArea>
+	<Customs/>
+	<Removed>false</Removed>
+	<Utilisation>false</Utilisation>
+	<EngineType>-</EngineType>
+	<Power>189</Power>
+	<Stealing>false</Stealing>
+	<MarkaRus>НУUNDАI SАNТА</MarkaRus>
+	<VehicleTypeNumber>9</VehicleTypeNumber>
+	<Category>В</Category>
+	<State>OK</State>
+	<NettoWeight>-</NettoWeight>
+	<Price>615476,00</Price>
+	<IsCustoms>false</IsCustoms>
+	<TaxiInformations/>
+	<Results>
+		<Result num='3'>
+			<region>СТАРООСКОЛЬСКИЙ</region>
+			<dateOfLastOperation>21.12.2007</dateOfLastOperation>
+			<area>309500</area>
+			<dateOfFirstRegistration>21.12.2007</dateOfFirstRegistration>
+			<street>-</street>
+			<oblast>Белгородская область</oblast>
+			<okrug>Центральный</okrug>
+			<type>park</type>
+			<city>СТАРЫЙ ОСКОЛ Г</city>
+			<categoryOfOwner>2</categoryOfOwner>
+			<codeOfTechOperation>12</codeOfTechOperation>
+			<country>RU</country>
+		</Result>
+		<Result num='2'>
+			<region>СТАРООСКОЛЬСКИЙ</region>
+			<dateOfLastOperation>21.12.2007</dateOfLastOperation>
+			<area>309500</area>
+			<dateOfFirstRegistration>21.12.2007</dateOfFirstRegistration>
+			<street>-</street>
+			<oblast>Белгородская область</oblast>
+			<okrug>Центральный</okrug>
+			<type>park</type>
+			<city>СТАРЫЙ ОСКОЛ Г</city>
+			<categoryOfOwner>2</categoryOfOwner>
+			<codeOfTechOperation>12</codeOfTechOperation>
+			<country>RU</country>
+		</Result>
+		<Result num='10'>
+			<inn>-</inn>
+			<region>ДАГЕСТАНСКИЕ　ОГНИ</region>
+			<dateOfLastOperation>10.07.2015</dateOfLastOperation>
+			<street>-</street>
+			<oblast>Республика　Дагестан</oblast>
+			<okrug>Северо-Кавказский</okrug>
+			<house>-</house>
+			<type>registration</type>
+			<appartment>-</appartment>
+			<city>ДАГ　ОГНИ　Г</city>
+			<country>RU</country>
+			<codeOfTechOperation>94</codeOfTechOperation>
+			<area>368670</area>
+			<dateOfFirstRegistration>10.07.2015</dateOfFirstRegistration>
+			<owner>ФИЗ　ЛИЦО</owner>
+			<categoryOfOwner>2</categoryOfOwner>
+		</Result>
+		<Result num='1'>
+			<region>СТ.ОСКОЛЬСКИЙ</region>
+			<dateOfLastOperation>21.12.2007</dateOfLastOperation>
+			<area>309500</area>
+			<dateOfFirstRegistration>21.12.2007</dateOfFirstRegistration>
+			<street>-</street>
+			<oblast>Белгородская область</oblast>
+			<okrug>Центральный</okrug>
+			<type>park</type>
+			<city>СТАРЫЙ ОСКОЛ Г.</city>
+			<categoryOfOwner>2</categoryOfOwner>
+			<codeOfTechOperation>11</codeOfTechOperation>
+			<country>RU</country>
+		</Result>
+		<Result num='7'>
+			<inn>-</inn>
+			<region>ОКТЯБРЬСКИЙ</region>
+			<dateOfLastOperation>28.11.2014</dateOfLastOperation>
+			<street>-</street>
+			<oblast>Калужская　область</oblast>
+			<okrug>Центральный</okrug>
+			<house>-</house>
+			<type>registration</type>
+			<appartment>-</appartment>
+			<city>Г.　КАЛУГА</city>
+			<country>RU</country>
+			<codeOfTechOperation>94</codeOfTechOperation>
+			<area>248000</area>
+			<dateOfFirstRegistration>28.11.2014</dateOfFirstRegistration>
+			<owner>ФИЗ　ЛИЦО</owner>
+			<categoryOfOwner>2</categoryOfOwner>
+		</Result>
+		<Result num='6'>
+			<region>СТАРООСКОЛЬСКИЙ</region>
+			<dateOfLastOperation>21.12.2007</dateOfLastOperation>
+			<area>309500</area>
+			<dateOfFirstRegistration>21.12.2007</dateOfFirstRegistration>
+			<street>-</street>
+			<oblast>Белгородская　область</oblast>
+			<okrug>Центральный</okrug>
+			<type>park</type>
+			<city>СТАРЫЙ　ОСКОЛ　Г</city>
+			<categoryOfOwner>2</categoryOfOwner>
+			<codeOfTechOperation>12</codeOfTechOperation>
+			<country>RU</country>
+		</Result>
+		<Result num='5'>
+			<region>СТАРООСКОЛЬСКИЙ</region>
+			<dateOfLastOperation>21.12.2007</dateOfLastOperation>
+			<area>309500</area>
+			<dateOfFirstRegistration>21.12.2007</dateOfFirstRegistration>
+			<street>-</street>
+			<oblast>Белгородская　область</oblast>
+			<okrug>Центральный</okrug>
+			<type>park</type>
+			<city>СТАРЫЙ　ОСКОЛ　Г</city>
+			<categoryOfOwner>2</categoryOfOwner>
+			<codeOfTechOperation>12</codeOfTechOperation>
+			<country>RU</country>
+		</Result>
+		<Result num='4'>
+			<region>СТАРООСКОЛЬСКИЙ</region>
+			<dateOfLastOperation>21.12.2007</dateOfLastOperation>
+			<area>309500</area>
+			<dateOfFirstRegistration>21.12.2007</dateOfFirstRegistration>
+			<street>-</street>
+			<oblast>Белгородская　область</oblast>
+			<okrug>Центральный</okrug>
+			<type>park</type>
+			<city>СТАРЫЙ　ОСКОЛ　Г</city>
+			<categoryOfOwner>2</categoryOfOwner>
+			<codeOfTechOperation>12</codeOfTechOperation>
+			<country>RU</country>
+		</Result>
+		<Result num='9'>
+			<inn>-</inn>
+			<region>ОРДЖОНИКИДЗЕВСКИЙ　　Р-Н</region>
+			<dateOfLastOperation>26.05.2015</dateOfLastOperation>
+			<street>-</street>
+			<oblast>Пермский　край</oblast>
+			<okrug>Приволжский</okrug>
+			<house>-</house>
+			<type>registration</type>
+			<appartment>-</appartment>
+			<city>ПЕРМЬ　Г</city>
+			<country>RU</country>
+			<codeOfTechOperation>94</codeOfTechOperation>
+			<area>614047</area>
+			<dateOfFirstRegistration>01.01.0001</dateOfFirstRegistration>
+			<owner>ФИЗ　ЛИЦО</owner>
+			<categoryOfOwner>2</categoryOfOwner>
+		</Result>
+		<Result num='8'>
+			<inn>-</inn>
+			<region>КАСПИЙСК</region>
+			<dateOfLastOperation>14.03.2015</dateOfLastOperation>
+			<street>-</street>
+			<oblast>Республика　Дагестан</oblast>
+			<okrug>Северо-Кавказский</okrug>
+			<house>-</house>
+			<type>registration</type>
+			<appartment>-</appartment>
+			<city>КАСПИЙСК　Г</city>
+			<country>RU</country>
+			<codeOfTechOperation>94</codeOfTechOperation>
+			<area>368300</area>
+			<dateOfFirstRegistration>14.03.2015</dateOfFirstRegistration>
+			<owner>ФИЗ　ЛИЦО</owner>
+			<categoryOfOwner>2</categoryOfOwner>
+		</Result>
+		<Result num='11'>
+			<inn>-</inn>
+			<region>ДЕРБЕНТСКИЙ　Р-Н.</region>
+			<dateOfLastOperation>11.10.2017</dateOfLastOperation>
+			<street>-</street>
+			<oblast>Республика　Дагестан</oblast>
+			<okrug>Северо-Кавказский</okrug>
+			<house>-</house>
+			<type>registration</type>
+			<appartment>-</appartment>
+			<city>С　ХАЗАР</city>
+			<country>RU</country>
+			<codeOfTechOperation>94</codeOfTechOperation>
+			<area>368612</area>
+			<dateOfFirstRegistration>11.10.2017</dateOfFirstRegistration>
+			<owner>ФИЗ　ЛИЦО</owner>
+			<categoryOfOwner>2</categoryOfOwner>
+		</Result>
+	</Results>
+	<MaxWeight>-</MaxWeight>
+	<ChassisNumber>-</ChassisNumber>
+</ROOT>
