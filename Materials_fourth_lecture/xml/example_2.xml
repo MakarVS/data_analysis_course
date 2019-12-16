@@ -32,7 +32,7 @@
 	<TaxiInformations/>
 	<Results>
 		<Result num='3'>
-			<region>ВЫБОРГСКИЙ</region>
+			<region>ЗАРЕЧЬЕ</region>
 			<dateOfLastOperation>26.05.2007</dateOfLastOperation>
 			<area>194100</area>
 			<dateOfFirstRegistration>01.01.2001</dateOfFirstRegistration>
@@ -42,12 +42,12 @@
 			<type>park</type>
 			<city>Г. С-ПЕТЕРБУРГ</city>
 			<categoryOfOwner>2</categoryOfOwner>
-			<codeOfTechOperation>16</codeOfTechOperation>
+			<codeOfTechOperation>30</codeOfTechOperation>
 			<country>RU</country>
 		</Result>
 		<Result num='2'>
-			<region>ВЫБОРГСКИЙ</region>
-			<dateOfLastOperation>26.05.2007</dateOfLastOperation>
+			<region>ФИНСКИЙ</region>
+			<dateOfLastOperation>21.08.2009</dateOfLastOperation>
 			<area>194100</area>
 			<dateOfFirstRegistration>01.01.2001</dateOfFirstRegistration>
 			<street>-</street>
@@ -56,12 +56,12 @@
 			<type>park</type>
 			<city>Г. С-ПЕТЕРБУРГ</city>
 			<categoryOfOwner>2</categoryOfOwner>
-			<codeOfTechOperation>16</codeOfTechOperation>
+			<codeOfTechOperation>11</codeOfTechOperation>
 			<country>RU</country>
 		</Result>
 		<Result num='1'>
 			<region>ВЫБОРГСКИЙ</region>
-			<dateOfLastOperation>26.05.2007</dateOfLastOperation>
+			<dateOfLastOperation>11.03.2008</dateOfLastOperation>
 			<area>194100</area>
 			<dateOfFirstRegistration>-</dateOfFirstRegistration>
 			<street>-</street>
@@ -73,37 +73,9 @@
 			<codeOfTechOperation>16</codeOfTechOperation>
 			<country>RU</country>
 		</Result>
-		<Result num='7'>
-			<region>СОСНОВОБОРСКИЙ</region>
-			<dateOfLastOperation>12.01.2012</dateOfLastOperation>
-			<area>188510</area>
-			<dateOfFirstRegistration>12.01.2012</dateOfFirstRegistration>
-			<street>-</street>
-			<oblast>Ленинградская　область</oblast>
-			<okrug>Северо-Западный</okrug>
-			<type>park</type>
-			<city>СОСНОВЫЙ　БОР</city>
-			<categoryOfOwner>2</categoryOfOwner>
-			<codeOfTechOperation>12</codeOfTechOperation>
-			<country>RU</country>
-		</Result>
-		<Result num='6'>
-			<region>ВЫБОРГСКИЙ</region>
-			<dateOfLastOperation>26.05.2007</dateOfLastOperation>
-			<area>194100</area>
-			<dateOfFirstRegistration>01.01.0001</dateOfFirstRegistration>
-			<street>ПР.　ЯРОСЛАВСКИЙ</street>
-			<oblast>Санкт-Петербург</oblast>
-			<okrug>Северо-Западный</okrug>
-			<type>park</type>
-			<city>Г.　С-ПЕТЕРБУРГ</city>
-			<categoryOfOwner>2</categoryOfOwner>
-			<codeOfTechOperation>16</codeOfTechOperation>
-			<country>RU</country>
-		</Result>
 		<Result num='5'>
-			<region>СОСНОВОБОРСКИЙ</region>
-			<dateOfLastOperation>12.01.2012</dateOfLastOperation>
+			<region>ПРОЛЕТАРСКИЙ</region>
+			<dateOfLastOperation>12.01.2014</dateOfLastOperation>
 			<area>188510</area>
 			<dateOfFirstRegistration>12.01.2012</dateOfFirstRegistration>
 			<street>-</street>
@@ -112,7 +84,7 @@
 			<type>park</type>
 			<city>СОСНОВЫЙ　БОР</city>
 			<categoryOfOwner>2</categoryOfOwner>
-			<codeOfTechOperation>12</codeOfTechOperation>
+			<codeOfTechOperation>19</codeOfTechOperation>
 			<country>RU</country>
 		</Result>
 		<Result num='4'>
